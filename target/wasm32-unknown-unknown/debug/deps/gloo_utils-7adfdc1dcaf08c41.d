@@ -1,0 +1,10 @@
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/gloo_utils-7adfdc1dcaf08c41.rmeta: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/errors.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/iter.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/format/json.rs
+
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/libgloo_utils-7adfdc1dcaf08c41.rlib: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/errors.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/iter.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/format/json.rs
+
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/gloo_utils-7adfdc1dcaf08c41.d: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/errors.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/iter.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/format/json.rs
+
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/lib.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/errors.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/iter.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/format/json.rs:

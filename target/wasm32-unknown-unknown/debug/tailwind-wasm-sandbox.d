@@ -1,0 +1,1 @@
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/tailwind-wasm-sandbox.wasm: /Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/src/app.rs /Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/src/main.rs

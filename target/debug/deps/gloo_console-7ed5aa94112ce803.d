@@ -1,0 +1,10 @@
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/debug/deps/gloo_console-7ed5aa94112ce803.rmeta: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs
+
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/debug/deps/gloo_console-7ed5aa94112ce803.d: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs
+
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs:

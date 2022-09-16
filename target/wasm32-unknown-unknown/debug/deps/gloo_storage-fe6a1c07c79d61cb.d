@@ -1,0 +1,10 @@
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/gloo_storage-fe6a1c07c79d61cb.rmeta: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-fe6a1c07c79d61cb.rlib: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/gloo_storage-fe6a1c07c79d61cb.d: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs:

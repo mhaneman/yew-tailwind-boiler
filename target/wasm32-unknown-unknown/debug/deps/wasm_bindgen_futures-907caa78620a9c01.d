@@ -1,0 +1,9 @@
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-907caa78620a9c01.rmeta: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/queue.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/task/singlethread.rs
+
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/libwasm_bindgen_futures-907caa78620a9c01.rlib: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/queue.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/task/singlethread.rs
+
+/Users/michaelhaneman/Programming/YewProjects/tailwind-wasm-sandbox/target/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-907caa78620a9c01.d: /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/lib.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/queue.rs /Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/task/singlethread.rs
+
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/lib.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/queue.rs:
+/Users/michaelhaneman/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.33/src/task/singlethread.rs:
